@@ -1,4 +1,4 @@
-import { Analytics } from '@vercel/analytics/next'
+import { Analytics } from '@vercel/analytics/react'
 import type { Metadata, Viewport } from 'next'
 import { Geist, Geist_Mono, Noto_Sans_JP } from 'next/font/google'
 import { SiteHeader } from '@/components/site-header'
